@@ -1,0 +1,41 @@
+body,.buttonheight{
+    background-color: #f3fbec;
+}
+.container{
+    width:75%;
+}
+.fire{
+
+font-size: 0.6vw;
+font-weight: 700;
+
+}
+header,footer{
+    background-color: #213855;
+    
+}
+.buttonheight{
+    
+    padding: 20px;
+}
+ 
+footer{
+    height: 50px;
+}
+.output{
+border: 1px solid #768181;
+background-color: #f3fbec;
+
+}
+.output2{
+    min-height: 2em;
+    height:auto;
+}
+
+footer p{
+    color: #51687a;
+}
+footer span{
+ color: aliceblue;    
+}
+
